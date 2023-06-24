@@ -1,2 +1,1 @@
-# PrepHenryCourse
-Este es un repositorio de prueba del prepCourse de Henry 
+Estoy aprendiendo a usar git y github en HENRY
